@@ -1,0 +1,8 @@
+{
+    "configuration": "PartitionScheme=default,UploadSpeed=921600,PSRAM=enabled,DebugLevel=none",
+    "board": "espressif:esp32:adafruit_feather_esp32_v2",
+    "port": "COM6",
+    "programmer": "espressif:esptool",
+    "sketch": "WaterBox.ino",
+    "output": "../build"
+}
